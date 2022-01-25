@@ -25,4 +25,4 @@ I have learnt the detailed fundamentals to implement and use the GitHub.
      - I am intrested in pursing Data Science so i opted in for Masters in Computer Science.
        - I am a movie freak and likes to read books.
 
-The main goal of this course is to understand briefly in GitHub. 🚀
+The main goal of this course is to understand briefly in GitHub. 
