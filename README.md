@@ -1,6 +1,6 @@
 # ** ** THE BASICS INTRODUCTION OF GITHUB
 
-### 🤓 Course overview and learning outcomes 
+### Course overview and learning outcomes 
 
 * * The main intention of GitHub is to connect and solve the problems from any where without any interuption.
 * * The use of GitHub is it can keep all the data so everyone can share there thoughts and improve to solve the problems together.
